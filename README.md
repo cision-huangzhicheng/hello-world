@@ -1,2 +1,3 @@
 # hello-world
-第一个仓库
+# 第 一个仓库
+print ("hello world!")
